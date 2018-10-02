@@ -13,4 +13,11 @@ body {
   flex-direction: column;
   justify-content: center;
   height: 100%;
+  padding: 0 3rem;
+}
+
+h1,
+h2 {
+  font-weight: 200;
+  margin: 0.4rem;
 }
