@@ -1,1 +1,16 @@
 @import url("https://fonts.googleapis.com/css/family=Raleway:200,100,400");
+
+body {
+  font-family: "Raleway", sans-serif;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
