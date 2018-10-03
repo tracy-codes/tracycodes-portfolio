@@ -16,7 +16,7 @@ Coming soon
 
 ### TODO
 
-- [ ] Add footer elements (will utilize fontawesome for this)
+- [x] Add footer elements (will utilize fontawesome for this)
 - [ ] Add About Me page information (still just a placeholder page rn)
 - [ ] Refactor & reorganize JS for ease of use & customization
 - [ ] Refactor & reorganzie HTML/CSS for ease of use & customization
