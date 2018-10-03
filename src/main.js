@@ -59,7 +59,7 @@ function init() {
   // Init TypeWriter
   new TypeWriter(
     txtEl,
-    ["Web Developer", "Creator", "Ecommerce Fanatic"],
+    ["Web Developer", "Ecommerce Fanatic", "Creator"],
     3000
   );
 }
